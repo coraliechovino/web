@@ -432,6 +432,9 @@ a.cell:hover .headline{color:var(--accent);}
 /* ---------- Responsive ---------- */
 @media (max-width:900px){
   .lede{grid-template-columns:1fr;}
+  .col-mid{order:1;}
+  .col-left{order:2;}
+  .col-right{order:3;}
   .col-left,.col-right{border:0;padding:22px 0;}
   .col-left,.col-mid{border-bottom:1px solid var(--rule);}
   .grid-3,.contact-grid{grid-template-columns:1fr 1fr;}
