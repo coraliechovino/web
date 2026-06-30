@@ -10,7 +10,6 @@
 var VIDEOS = [
   // --- YouTube ---
   { t: "Nacera Belaza, choregraphe, serie Parkours MC93", u: "https://www.youtube.com/watch?v=STdrTeq4KQk", c: "culture" },
-  { t: "Hatice Ozer, Le Chant du pere, serie Parkours MC93", u: "https://www.youtube.com/watch?v=a_wi_JdSN28", c: "culture" },
   { t: "Adama Diop, Fajar, serie Parkours MC93", u: "https://www.youtube.com/watch?v=hzGkipKHGjY", c: "culture" },
   { t: "Comment faire progresser l'ecologie a l'echelle locale ?", u: "https://www.youtube.com/watch?v=SSzfSY8VmSM", c: "ecologie" },
 
